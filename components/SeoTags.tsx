@@ -1,10 +1,10 @@
 import Head from "next/head";
 
 const tags = {
-  title: "PhilippeTedajo",
+  title: "dayuza",
   description:
-    "Software engineer | Passionate Learner | Typescript | React | Node. Working as a professional Front-end developer",
-  url: "https://philippetedajo.vercel.app",
+    "",
+  url: "",
 };
 
 const SeoTags = () => {
@@ -17,11 +17,11 @@ const SeoTags = () => {
       {/*General*/}
       <link rel="icon" href="/favicon.ico" />
       <meta name="description" content={tags.description} />
-      <meta name="author" content="Philippe Tedajo" />
+      <meta name="author"  />
 
       {/* Twitter */}
       <meta name="twitter:card" content="summary" key="twcard" />
-      <meta name="twitter:creator" content="Philippe Tedajo" key="twhandle" />
+      <meta name="twitter:creator"  key="twhandle" />
 
       {/* Open Graph */}
       <meta property="og:url" content={tags.url} key="ogurl" />
