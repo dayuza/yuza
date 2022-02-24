@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<a href="https://philippetedajo.vercel.app/">Philippe.tedajo</a>
+<a href="https://dayuza.vercel.app/">Teguh Nugratama Dayuza</a>
 </h1>
 <p align="center">
  A beautiful portofolio focus on simplicity, built with <a href="https://nextjs.org/" target="_blank">Next</a>, <a href="https://tailwindcss.com/" target="_blank">TailwindCss</a> and <a href="https://vercel.com/" target="_blank">Vercel</a>
@@ -8,9 +8,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Netlify Status" />
 </p>
-
-![](public/cover1.png)
-![](public/cover2.png)
 
 ## 🛠️ Usage
 
