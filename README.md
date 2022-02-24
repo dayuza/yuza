@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<a href="https://dayuza.vercel.app/">Teguh Nugratama Dayuza</a>
+<a href="https://yuza.vercel.app/">Teguh Nugratama Dayuza</a>
 </h1>
 <p align="center">
  A beautiful portofolio focus on simplicity, built with <a href="https://nextjs.org/" target="_blank">Next</a>, <a href="https://tailwindcss.com/" target="_blank">TailwindCss</a> and <a href="https://vercel.com/" target="_blank">Vercel</a>
