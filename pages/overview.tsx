@@ -29,6 +29,15 @@ const Overview = () => {
         ],
       },
     },
+    {
+      content: {
+        title: "Motivation",
+        link: "",
+        status: "",
+        description: "by Anonymous",
+        stacks: ["Brain"],
+      },
+    },
   ];
 
   const overviewList = overviews.map((project, index) => (
