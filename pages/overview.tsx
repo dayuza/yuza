@@ -18,19 +18,6 @@ const Overview = () => {
     },
     {
       content: {
-        title: "Remind",
-        link: "https://dayuza.github.io/for-her/",
-        status: "beta",
-        description: "Create, Publish, Modification and Share!",
-        stacks: [
-          "JavaScript",
-          "Css",
-          "Html",
-        ],
-      },
-    },
-    {
-      content: {
         title: "Motivation",
         link: "",
         status: "",
