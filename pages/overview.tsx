@@ -34,8 +34,8 @@ const Overview = () => {
         title: "Motivation",
         link: "",
         status: "",
-        description: "by Anonymous",
-        stacks: ["Brain"],
+        description: "Ingat, ketika Anda terhubung dengan komputer lain, Anda terhubung ke setiap komputer yang terhubung dengan komputer.",
+        stacks: ["by Anonymous"],
       },
     },
   ];
